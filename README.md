@@ -9,4 +9,4 @@ The following events of interest should be especially highlighted in the report:
 2. Moon landing with Apollo 11 in 1969 by Neil Armstrong and Buzz Aldrin.
 3. First Chinese manned mission with Shenzhou 5 in 2005 by Yang Liwei.
 
-The visualisation should be in one Power BI report page but could have as many visual as needed. It will be print out as ‘A2’ size poster for the exhibition so considered that when creating the visualisation.
+The visualisation should be in one Power BI report page but could have as many visual as needed. The problem statement requires to consider the aim that visualisaiton will be printed on a ‘A2’ size poster for the exhibition.
